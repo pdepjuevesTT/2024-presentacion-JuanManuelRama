@@ -1,9 +1,10 @@
 # Presentacion
   Me llamo Juan Manuel, tengo 18 años y este es mi segundo año en la UTN
   ## Mis hobbies son
-     ###Mirar fulbo, soy hincha de Independiente 👹
-    * Jugar videojuegos
-    * Ver Películas
+     * Mirar fulbo, soy hincha de Independiente 👹
+     * Jugar videojuegos, me gustan la mayoría de generos como RPG, 
+       plataformeros, acción, etc. Lo que no suelo hacer es jugar multijugador
+     * Ver Películas, mi direcotr favorito es Martin Scorsese
   La última película que vi fue 'Nice Guys' de Ryan Gosling
 
   
