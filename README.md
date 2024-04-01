@@ -1,7 +1,7 @@
 # Presentacion
   Me llamo Juan Manuel, tengo 18 años y este es mi segundo año en la UTN
   ## Mis hobbies son
-    * Mirar fulbo
+     ###Mirar fulbo, soy hincha de Independiente 👹
     * Jugar videojuegos
     * Ver Películas
   La última película que vi fue 'Nice Guys' de Ryan Gosling
